@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Deepjyoti Das is here !!!
 
 <!--
 **Codessmasher/Codessmasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Codessmasher)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Codessmasher&theme=highcontrast&show_icons=true&count_private=true)
