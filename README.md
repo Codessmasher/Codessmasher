@@ -5,7 +5,7 @@
 - ✉️ You can contact me at [deepdeepdasdasdas@gmail.com](mailto:deepdeepdasdasdas@gmail.com)
 - 📫 See my portfolio:[PORTFOLIO](https://portfolio-ebon-beta.vercel.app)
 - 👯 I'm open for any Intereseting project related to web development
-- 📄 Check my resume :[DEEPJYOTI_DAS_RESUME](https://drive.google.com/file/d/1CfJCiy3BRICYnj1uYZ_en5awkBwqlQfF/view?usp=sharing)
+- 📄 Check my resume :[DEEPJYOTI_DAS_RESUME](https://drive.google.com/file/d/1yocZXh7nGxar6R-P8WkxhVgYfttCIvJ9/view?usp=sharing&usp=embed_facebook)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Codessmasher)
 <br/><br/><br/>
