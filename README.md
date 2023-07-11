@@ -12,5 +12,5 @@
 <br/><br/><br/>
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Codessmasher&theme=highcontrast&show_icons=true&count_private=true)
 <br/><br/><br/>
-[!Profile Views](https://komarev.com/ghpvc/?username=Codessmasher&color=FAC151)
+[[!Profile Views](https://komarev.com/ghpvc/?username=Codessmasher&color=FAC151)]
 
