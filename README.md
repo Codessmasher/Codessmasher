@@ -7,8 +7,9 @@
 - 👯 I'm open for any Intereseting project related to web development
 - 📄 Check my resume :[DEEPJYOTI_DAS_RESUME](https://drive.google.com/file/d/1yocZXh7nGxar6R-P8WkxhVgYfttCIvJ9/view?usp=sharing&usp=embed_facebook)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Codessmasher)
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Codessmasher&theme=react&line_height=40&hide=css"/> </a>
 <br/><br/><br/>
-![Github stats](https://github-readme-stats.vercel.app/api?username=Codessmasher&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Codessmasher&theme=highcontrast&show_icons=true&count_private=true)
 <br/><br/><br/>
 ![Profile views](https://gpvc.arturio.dev/Codessmasher)
