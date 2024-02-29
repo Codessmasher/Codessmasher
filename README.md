@@ -1,7 +1,7 @@
 ### Hi there 👋 Deepjyoti Das is here !!!
 
-- 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently enhancing my DSA skills
+- 🔭 I’m learning MERN stack through building projects.
+- 🌱 I’m currently enhancing my DSA skills.
 - ✉️ You can contact me at [deepdeepdasdasdas@gmail.com](mailto:deepdeepdasdasdas@gmail.com)
 - 📫 See my portfolio:[PORTFOLIO](https://portfolio-ebon-beta.vercel.app)
 - 👯 I'm open to any Interesting project related to web development
