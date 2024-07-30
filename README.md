@@ -1,5 +1,6 @@
 ### Hi there 👋 Deepjyoti Das is here !!!
 
+- 💼 I’m an Assistant System Engineer-Trainee @ TCS.
 - 🔭 I’m Working on MERN stack + Nextjs + Nodejs.
 - 🌱 I’m currently enhancing my DSA skills.
 - ✉️ You can contact me at [deepdeepdasdasdas@gmail.com](mailto:deepdeepdasdasdas@gmail.com)
